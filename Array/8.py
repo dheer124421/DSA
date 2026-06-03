@@ -1,3 +1,5 @@
+# Question - Function to rotate array to the right by k steps
+
 # Function to reverse a portion of the array
 
 def reverse(arr, start, end):
